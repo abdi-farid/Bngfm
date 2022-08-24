@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## Education
+## Education <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
 - **Master's Degree** ***(2019-2021)***
   - Information Technology
   - M'Hamed Bougara University of Boumerdes
