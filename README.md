@@ -11,3 +11,37 @@
 Bngfm/Bngfm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+## ***Work experience***
+
+<table>
+<tr>
+  <th> Job Position</th>
+  <th> Company</th>
+  <th> Field</th>
+  <th> Work Period</th>
+</tr>
+
+<tr>
+  <td>
+    design and development engineer for information systems
+  </td>
+  
+  <td>
+    El Djazair Information Technology (ELIT)
+  </td>
+  
+  <td>
+    JAVA, JAVA EE, POSTGRESQL
+  </td>
+  
+  <td>
+    December, 2021 - NOW
+  </td>
+
+
+</tr>
+
+
+</table>
