@@ -39,9 +39,19 @@ You can click the Preview link to take a look at your changes.
   <td>
     December, 2021 - NOW
   </td>
-
-
 </tr>
-
-
+  
 </table>
+
+
+
+## Education
+- **Master's Degree** ***(2019-2021)***
+  - Information Technology
+  - M'Hamed Bougara University of Boumerdes
+
+- **Bachelor's Degree** ***(2015-2019)***
+  - Computer Systems
+  - M'Hamed Bougara University of Boumerdes
+
+- **Bachelor's degree in mathematics** ***2015***
