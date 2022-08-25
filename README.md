@@ -57,6 +57,8 @@ You can click the Preview link to take a look at your changes.
 - **Bachelor's degree in mathematics** ***2015***
 
 
+## Languages
+
 
 
 
@@ -64,10 +66,17 @@ You can click the Preview link to take a look at your changes.
 
 
 ## My Github States
-<img src="https://github-readme-stats.vercel.app/api?username=Bngfm&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bngfm&show_icons=true&theme=dark"/>
     
 ## My Github Toop Language
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bngfm"/>    
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bngfm&theme=dark"/>    
+
+## Repos
+<div class="row">
+  <div class="col"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=ES6&theme=dark"/></div>  
+  <div class="col"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=Flask-App&theme=dark"/></div>  
+</div>
+
 
 
 
