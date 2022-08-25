@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bngfm
+- 👋 Hi, I’m @Bngfm (Farid Abdi)
 - 👀 I am interested in programming and all new technology I am passionate about complicated challenges and problem solving
 - 🌱 I’m currently learning using youtubes websites videos and other sites I train myself by solving problems and exercises in programming
 - 💞️ I am looking for collaboration on large projects responding to needs that add added value (python, java, J2EE)
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## ***Work experience***
 
 <table>
-<tr>
+<tr style="background-color:gray;">
   <th> Job Position</th>
   <th> Company</th>
   <th> Field</th>
@@ -55,3 +55,20 @@ You can click the Preview link to take a look at your changes.
   - M'Hamed Bougara University of Boumerdes
 
 - **Bachelor's degree in mathematics** ***2015***
+
+
+
+
+
+
+
+
+## My Github States
+<img src="https://github-readme-stats.vercel.app/api?username=Bngfm&show_icons=true"/>
+    
+## My Github Toop Language
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bngfm"/>    
+
+
+
+
