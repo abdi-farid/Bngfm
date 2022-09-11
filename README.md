@@ -102,14 +102,28 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Repos
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=ES6&theme=dark"/>  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=ES6&theme=dark" align="right"/>  
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=Flask-App&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=JEE-CRUD&theme=dark" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=IDS-ML&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=Bibliotheque-en-ligne-jee&theme=dark" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=OphtalmologyTest&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=Machine-Learning&theme=dark" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=MachineLearning&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bngfm&repo=Client-Server-compte-CCP&theme=dark"/>
+
+
+
 
 
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bngfm&show_icons=true&theme=dark" align="right"/>    
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bngfm&theme=dark"/>    
+
+ 
 
 
 ---
